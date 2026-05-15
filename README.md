@@ -1,7 +1,10 @@
 # GROMACS Protein molecular dynamics simulations under different conditions
-The pdf is the exam realized using gromacs to analyzed the molecular dynamics simulations of a protein under solvated and vacuum conditions. It was analyzed the RMSD, RMSF, radius of gyration and energy profiles, demonstrating the critical role of solvent in maintaning structural stability and realistic behavior.
+The PDF contains the final project developed using GROMACS to analyze molecular dynamics simulations of a protein under solvated and vacuum conditions.
 
-The class was given by the max planc institute for polymer research at the Heidelberg University: https://www.mpip-mainz.mpg.de/ws-2025-26-lectures-and-hands-on-sessions-in-computational-molecular-biophysics
+The study included the analysis of RMSD, RMSF, radius of gyration, and energy profiles, demonstrating the critical role of solvent interactions in maintaining structural stability and realistic protein behavior.
+
+This course was offered by the Max Planck Institute for Polymer Research in collaboration with Heidelberg University.
+https://www.mpip-mainz.mpg.de/ws-2025-26-lectures-and-hands-on-sessions-in-computational-molecular-biophysics
 
 ## Folder Description
 md_vacuum/
